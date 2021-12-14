@@ -1,0 +1,40 @@
+body {
+    color: black;
+    background-color: grey;
+    
+}
+
+
+
+.tituloprincipal{
+	padding-left: 20px;
+}
+
+.titulocentralizado{
+	text-align: center;
+}
+h1 {
+	text-align: center;
+}
+p {
+    text-align: center;
+}
+
+.itens {
+    font-style: italic
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
